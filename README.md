@@ -38,6 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 This project helped me continue to solidify basic html and css concepts. Though the project wasn't tough, it took me a while trying to get it was close as possible.
+I used photoshop to try and get the sizes from the design photos.
 
 ### Continued development
 
@@ -47,3 +48,7 @@ I try not to look for solutions online while working on the challenge, but inste
 
 - Frontend Mentor - [@zp021](https://www.frontendmentor.io/profile/zp021)
 - GitHub - [@zp021](https://github.com/zp021)
+
+## Acknowledgments
+
+Thanks to all who responden on my solutions, giving me the much needed and helpful feedback.
